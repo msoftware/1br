@@ -2,12 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://1br.de</homePageLink>
+    <homePageLink>http://www.1br.de</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://1br.de/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://1br.de/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://1br.de/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://1br.de/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.1br.de/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.1br.de/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.1br.de/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.1br.de/xmlrpc.php" />
           </apis>
   </service>
 </rsd>
